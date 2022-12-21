@@ -319,6 +319,11 @@ img {
   .text-right-xs {
     text-align: right;
   }
+
+  .container .section_title img{
+    margin-left: 110px;
+    position: relative;
+  }
 }
 .loader {
   position: fixed;
@@ -1658,7 +1663,7 @@ header ul.menu li a.nav-link {
   font-weight: 400;
   display: block;
   text-transform: uppercase;
-  color: #006eb7;
+  color: #131b20;
 }
 header ul.menu li a.nav-link:hover {
   color: #0760af;
